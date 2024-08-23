@@ -14,14 +14,6 @@
 4. Click on **Load unpacked** and select the folder where you downloaded or cloned the repository.
 5. The extension will now appear in your list of extensions.
 
-## Usage
-
-1. Navigate to any webpage where you want to scrape images.
-2. Click on the Chrome Scraper extension icon in the browser toolbar.
-3. A popup window will appear showing all the images on the page.
-4. Preview the images and select the ones you want to download.
-5. Click the **Download** button to save the selected images to your device.
-
 ## Development
 
 1. If you want to make changes to the extension, edit the files in the project directory.
